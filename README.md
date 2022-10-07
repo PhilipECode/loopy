@@ -1,1 +1,1 @@
-# Loopy
+# Loopy - Music Player
