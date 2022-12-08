@@ -1,4 +1,5 @@
-# Welcome to Loopy - the music listening app that lets you enjoy your favorite songs like never before.
+# Welcome to Loopy
+### The music listening app that lets you enjoy your favorite songs like never before.
 
 Loopy is a unique and innovative music player that allows you to loop and repeat your favorite parts of a song. Whether it's a catchy chorus, a killer guitar solo, or a soothing instrumental, Loopy makes it easy to enjoy the music you love on your own terms.
 
